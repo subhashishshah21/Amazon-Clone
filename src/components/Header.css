@@ -46,10 +46,14 @@
 }
 .header-line-one{
     font-size: 10px;
+    color: white;
+    text-decoration: none;
 }
 .header-line-two{
     font-size: 13px;
     font-weight: 800;
+    color: white;
+    text-decoration: none;
 }
 .header-cart-logo{
     display: flex;
